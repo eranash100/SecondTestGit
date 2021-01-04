@@ -5,5 +5,6 @@ public class Eran
     public Eran()
     {
         System.out.println("Hello I Am Eran!");
+        System.out.println("Hello I Am Eran Again!");
     }
 }
