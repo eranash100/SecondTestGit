@@ -1,0 +1,3 @@
+include ':LibTest'
+include ':app'
+rootProject.name = "GitTest2"
